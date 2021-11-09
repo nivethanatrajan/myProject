@@ -13,6 +13,7 @@ function App() {
   return (
     <Router>
       <MainNavigation />
+      <div></div>
       <main>
         <Switch>
           <Route path="/" exact>
